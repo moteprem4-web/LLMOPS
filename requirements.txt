@@ -1,0 +1,9 @@
+langchain
+langchainhub
+beautifulsoup4
+tiktoken
+openai
+boto3==1.34.37
+langchain-community
+chromadb
+bs4
